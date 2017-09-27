@@ -1,0 +1,13 @@
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\bin\Debug\netcoreapp1.1\API.CheckoutTest.deps.json
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\bin\Debug\netcoreapp1.1\API.CheckoutTest.runtimeconfig.json
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\bin\Debug\netcoreapp1.1\API.CheckoutTest.runtimeconfig.dev.json
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\bin\Debug\netcoreapp1.1\API.CheckoutTest.dll
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\bin\Debug\netcoreapp1.1\API.CheckoutTest.pdb
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\bin\Debug\netcoreapp1.1\API.Client.dll
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\bin\Debug\netcoreapp1.1\API.Client.pdb
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\obj\Debug\netcoreapp1.1\API.CheckoutTest.csprojResolveAssemblyReference.cache
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\obj\Debug\netcoreapp1.1\API.CheckoutTest.csproj.CoreCompileInputs.cache
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\obj\Debug\netcoreapp1.1\API.CheckoutTest.AssemblyInfoInputs.cache
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\obj\Debug\netcoreapp1.1\API.CheckoutTest.AssemblyInfo.cs
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\obj\Debug\netcoreapp1.1\API.CheckoutTest.dll
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\API.CheckoutTest\obj\Debug\netcoreapp1.1\API.CheckoutTest.pdb

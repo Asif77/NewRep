@@ -1,0 +1,16 @@
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\bin\Debug\netcoreapp1.1\UnitTestAPI.CheckoutTest.deps.json
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\bin\Debug\netcoreapp1.1\UnitTestAPI.CheckoutTest.runtimeconfig.json
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\bin\Debug\netcoreapp1.1\UnitTestAPI.CheckoutTest.runtimeconfig.dev.json
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\bin\Debug\netcoreapp1.1\UnitTestAPI.CheckoutTest.dll
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\bin\Debug\netcoreapp1.1\UnitTestAPI.CheckoutTest.pdb
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\bin\Debug\netcoreapp1.1\API.Client.dll
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\bin\Debug\netcoreapp1.1\API.Client.pdb
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\obj\Debug\netcoreapp1.1\UnitTestAPI.CheckoutTest.csprojResolveAssemblyReference.cache
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\obj\Debug\netcoreapp1.1\UnitTestAPI.CheckoutTest.csproj.CoreCompileInputs.cache
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\obj\Debug\netcoreapp1.1\UnitTestAPI.CheckoutTest.AssemblyInfoInputs.cache
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\obj\Debug\netcoreapp1.1\UnitTestAPI.CheckoutTest.AssemblyInfo.cs
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\obj\Debug\netcoreapp1.1\UnitTestAPI.CheckoutTest.dll
+C:\Users\masif\Documents\Visual Studio 2017\Projects\API.CheckoutTest\UnitTestAPI.CheckoutTest\obj\Debug\netcoreapp1.1\UnitTestAPI.CheckoutTest.pdb

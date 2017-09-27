@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\masif\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\masif\\.nuget\\packages"
+    ]
+  }
+}
