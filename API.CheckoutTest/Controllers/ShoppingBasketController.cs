@@ -83,9 +83,9 @@ namespace API.CheckoutTest.Controllers
             }
         }
 
-        [HttpPost("{id}")]
+        [HttpDelete]
         [Route("RemoveItem")]
-        public async Task<IActionResult> RemoveItem([FromBody] RemoveItemRequest removeItemRequest)
+        public async Task<IActionResult> RemoveItem([FromQuery] RemoveItemRequest removeItemRequest)
         {
             using (Response response = new Response())
             {

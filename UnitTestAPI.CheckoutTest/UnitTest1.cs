@@ -80,6 +80,36 @@ namespace UnitTestAPI.CheckoutTest
         }
 
         [Fact]
+        public void TestShoppingBasket_RemoveItem()
+        {
+            ShoppingBasketClient client = new ShoppingBasketClient();
+
+            var response = client.Clear(Customer1);
+
+            Assert.Equal(response.Status, Status.Success);
+
+            response = client.AddItem(new AddItemRequest()
+            {
+                CustomerId = Customer1,
+                ProductId = 1,
+                Quantity = 1
+            });
+           
+
+            Assert.Equal(response.Status, Status.Success);
+
+            GetItemsResponse itemsResponse = client.GetItems(Customer1);
+
+            client.RemoveItem(new RemoveItemRequest() { CustomerId = Customer1, Id = itemsResponse.Items[0].Id });
+
+            itemsResponse = client.GetItems(Customer1);
+
+            Assert.Equal(itemsResponse.Status, Status.Success);
+
+            Assert.Equal(itemsResponse.Items.Count, 1);
+        }
+
+        [Fact]
         public void TestShoppingBasketAddItem_UpdateItems()
         {
             ShoppingBasketClient client = new ShoppingBasketClient();

@@ -22,7 +22,8 @@ namespace API.Client
 
         public Response RemoveItem(RemoveItemRequest request)
         {
-            return HttpPost<Response>(ShoppingBasketUri + "RemoveItem", request).Result;
+            var reqJson = JsonConvert.SerializeObject(request);
+            return HttpDelete<Response>(ShoppingBasketUri + "RemoveItem", reqJson).Result;
         }
 
         public Response UpdateItems(UpdateItemsRequest request)
